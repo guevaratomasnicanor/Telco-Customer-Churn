@@ -11,7 +11,6 @@ El objetivo del proyecto es **predecir si un cliente abandonará la compañía d
 El dataset contiene información de más de **7000 clientes**, con variables sobre servicios contratados, antigüedad, métodos de pago y características personales.
 
 **Variables principales:**
-- `customerID`
 - `gender`
 - `SeniorCitizen`
 - `Partner`, `Dependents`
@@ -80,12 +79,5 @@ Otros modelos evaluados: Logistic Regression, XGBoost, LightGBM.
 
 ---
 
-## 📈 Visualizaciones destacadas
-
-- Distribución de churn por tipo de contrato  
-- Churn por método de pago  
-- Boxplots de cargos mensuales vs churn  
-- Matriz de correlación y mapa de calor  
-- Curva ROC y feature importance
 
 
