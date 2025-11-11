@@ -37,10 +37,13 @@ El dataset contiene información de más de **7000 clientes**, con variables sob
 ### 🧭 Análisis demográfico
 - Clientes **con pareja o dependientes** presentan menor tasa de abandono.  
 - Los **adultos mayores (Senior Citizens)** tienen mayor propensión al churn.
+  <img width="1360" height="691" alt="Captura de pantalla 2025-11-11 171049" src="https://github.com/user-attachments/assets/ef60db1a-5680-4514-b20d-f9d58b0cf18b" />
+
 
 ### 💳 Análisis contractual
 - Clientes con **contratos mensuales (month-to-month)** tienden a abandonar más.  
 - Aquellos que pagan con **cheque electrónico** o tienen **facturación sin papel** muestran tasas más altas de churn.
+<img width="1357" height="691" alt="Captura de pantalla 2025-11-11 171337" src="https://github.com/user-attachments/assets/9f335c10-92a6-431f-9acb-8170ff73dac8" />
 
 ### 💡 Análisis de servicios
 - Clientes con **fibra óptica**, sin **Online Security**, **Backup**, **Tech Support** o **Device Protection** presentan mayor churn.  
