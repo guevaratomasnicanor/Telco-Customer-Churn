@@ -53,6 +53,7 @@ El dataset contiene información de más de **7000 clientes**, con variables sob
 ### 📈 Variables numéricas
 - **Mayor antiguedad** → menor churn.  
 - **Cargos mensuales bajos** y **cargos totales altos** se asocian con clientes que permanecen.
+<img width="1360" height="687" alt="Captura de pantalla 2025-11-12 094504" src="https://github.com/user-attachments/assets/81e43b01-1390-430b-9fe9-05e7298720b7" />
 
 ---
 
