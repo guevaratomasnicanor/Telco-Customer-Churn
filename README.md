@@ -48,6 +48,7 @@ El dataset contiene información de más de **7000 clientes**, con variables sob
 ### 💡 Análisis de servicios
 - Clientes con **fibra óptica**, sin **Online Security**, **Backup**, **Tech Support** o **Device Protection** presentan mayor churn.  
 - Clientes **sin servicio de Internet** muestran menor tasa de abandono.
+<img width="1358" height="687" alt="Captura de pantalla 2025-11-12 102931" src="https://github.com/user-attachments/assets/3f965890-a3ce-44eb-bb57-808a17618699" />
 
 ### 📈 Variables numéricas
 - **Mayor antiguedad** → menor churn.  
