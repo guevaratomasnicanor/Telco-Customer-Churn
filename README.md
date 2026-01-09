@@ -61,11 +61,12 @@ El dataset contiene información de más de **7000 clientes**, con variables sob
 
 Se entrenaron modelos de clasificación para predecir la variable `Churn`.
 
-**Mejor modelo:** `Random Forest`
+**Mejor modelo:** `Random Forest`: Tiene una eficacia del 83%, detectando un 77% de los clientes que abandonan. Esto es fundamental ya que nos da la oportunidad de intervenir y salvar 8 de cada 10 bajas potenciales.
 
 | Modelo | Accuracy | Precision | Recall | F1 Score |
 |---------|-----------|-----------|---------|-----------|
 | Random Forest | **0.83** | 0.79 | 0.77 | 0.78 |
+
 
 Otros modelos evaluados: Logistic Regression, XGBoost, LightGBM.
 
