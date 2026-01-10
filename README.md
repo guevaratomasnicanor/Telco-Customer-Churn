@@ -36,8 +36,7 @@ El dataset contiene información de más de **7000 clientes**, con variables sob
 
 - El 27% de los clientes están abandonando a la compañía.
 - Las principales caracteristicas de consumidores que abandonan la empresa son el pago con  **Cheque Electrónico**, el contrato **Mes a Mes** y el servicio de **Fibra Óptica**. Al tener el servicio más costoso y tecnológicamente exigente (Fibra), el cliente desarrolla una expectativa de calidad altísima; sin embargo, al no estar atado por un contrato de permanencia, su lealtad es volátil y depende del humor del día. El detonante final es el Cheque Electrónico: a diferencia del pago automático, este método obliga al usuario a realizar un acto consciente de pago cada mes, enfrentándolo cara a cara con una factura elevada en un momento de fricción financiera.
-- Los siguientes predictores de la huida son la falta servicios de protección: sin **SeguridadOnline**, **SoporteTécnico**, **Respaldo en Línea** ni **Protección del dispositivo**,      
-Estos servicios no son solo extras, son anclajes de lealtad que elevan el costo de salida. Mientras que un cliente sin respaldo se va sin pensarlo, aquel que confía sus archivos a la empresa siente que renunciar al contrato es un riesgo logístico y personal, convirtiendo a las protecciones en el escudo final contra la volatilidad del pago manual y el contrato mensual.
+- Los siguientes predictores de la huida son la falta servicios de protección: sin **SeguridadOnline**, **SoporteTécnico**, **Respaldo en Línea** ni **Protección del dispositivo**. Estos servicios no son solo extras, son anclajes de lealtad que elevan el costo de salida. Mientras que un cliente sin respaldo se va sin pensarlo, aquel que confía sus archivos a la empresa siente que renunciar al contrato es un riesgo logístico y personal, convirtiendo a las protecciones en el escudo final contra la volatilidad del pago manual y el contrato mensual.
 
 
 
