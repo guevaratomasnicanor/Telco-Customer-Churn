@@ -44,8 +44,10 @@ El dataset contiene información de más de **7000 clientes**, con variables sob
 
 
 ### 📈 Variables numéricas
-- **Mayor antiguedad** → menor churn.  
-- **Cargos mensuales bajos** y **cargos totales altos** se asocian con clientes que permanecen.
+
+La relación entre el tiempo y el costo define el destino del cliente: la antigüedad (tenure) es el ancla de lealtad definitiva, donde los clientes fieles alcanzan una mediana de 40 meses frente a los escasos 10 meses de quienes huyen. Esta permanencia se ve amenazada por la presión de los cargos mensuales (monthly charges), ya que el abandono se concentra en facturas elevadas de $\$80$, mientras que la estabilidad se halla en pagos más modestos de $\$65$. Finalmente, el valor acumulado (total charges) actúa como una barrera psicológica; cuanto mayor es la inversión histórica —con medianas de $\$1,800$ en clientes leales contra $\$700$ en desertores—, mayor es el compromiso del usuario, demostrando que el éxito de la retención reside en lograr que el historial y el capital invertido neutralicen la tentación de un precio mensual más bajo.
+
+
 <img width="1360" height="687" alt="Captura de pantalla 2025-11-12 094504" src="https://github.com/user-attachments/assets/81e43b01-1390-430b-9fe9-05e7298720b7" />
 
 ---
