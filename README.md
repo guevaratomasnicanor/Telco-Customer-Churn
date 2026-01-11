@@ -41,7 +41,7 @@ El dataset contiene información de más de **7000 clientes**, con variables sob
 
 - La estabilidad de la empresa descansa sobre el "Cliente Blindado", un perfil cuya lealtad no es casual, sino el resultado de barreras de salida estratégicas que reducen el riesgo de fuga a niveles mínimos de entre el 2.8% y el 7%. El pilar fundamental de este ecosistema es el **Contrato de Dos Años**, un "muro de contención" que transforma el servicio en una relación de largo plazo, eliminando el ciclo de duda que asfixia a los contratos mensuales. Esta fidelidad se ve reforzada por un "efecto de invisibilidad": al utilizar métodos de pago automáticos como **Tarjeta de credito** no estan cuestionandose constantemente el valor del servicio en cada factura, lo que permite que la relación fluya sin fricciones financieras mensuales. Finalmente, este círculo de lealtad se completa con los usuarios que no poseen **servicio de internet**, quienes presentan una tasa de abandono de apenas el 7.4%; para ellos, la simplicidad del servicio básico y la ausencia de las altas expectativas tecnológicas  eliminan los motivos de migración, convirtiéndolos en uno de los pilares más estables y predecibles de la compañía.
 
-<img width="644" height="361" alt="Captura de pantalla 2026-01-11 193316" src="https://github.com/user-attachments/assets/b6841d34-ba7e-4092-b46a-a211987680d7" />
+<img width="644" height="361" alt="Captura de pantalla 2026-01-11 201313" src="https://github.com/user-attachments/assets/2263dca2-cc95-483b-b786-015d37d5a126" />
 
 
 ### 📈 Variables numéricas
