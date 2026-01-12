@@ -63,8 +63,9 @@ Se entrenaron modelos de clasificación para predecir la variable `Churn`.
 |---------|-----------|-----------|---------|-----------|
 | Random Forest | **0.83** | 0.79 | 0.77 | 0.78 |
 
+<img width="638" height="357" alt="Captura de pantalla 2026-01-11 220436" src="https://github.com/user-attachments/assets/2f2a6007-91d2-4381-a92a-5f8fe00c60f9" />
 
-Otros modelos evaluados: Logistic Regression, XGBoost, LightGBM.
+
 
 ---
 
