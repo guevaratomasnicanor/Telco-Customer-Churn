@@ -57,11 +57,11 @@ La relación entre el tiempo y el costo define el destino del cliente: la antig�
 
 Se entrenaron modelos de clasificación para predecir la variable `Churn`.
 
-**Mejor modelo:** `Random Forest`: Tiene una eficacia del 83%, detectando un 77% de los clientes que abandonan. Esto es fundamental ya que nos da la oportunidad de intervenir y salvar 8 de cada 10 bajas potenciales.
+**Mejor modelo:** `Random Forest`: Tiene una eficacia del 77%, detectando un 83% de los clientes que abandonan. Esto es fundamental ya que nos da la oportunidad de intervenir y salvar 8 de cada 10 bajas potenciales.
 
-| Modelo | Accuracy | Precision | Recall | F1 Score |
-|---------|-----------|-----------|---------|-----------|
-| Random Forest | **0.83** | 0.79 | 0.77 | 0.78 |
+| Modelo | Accuracy | Recall | 
+|---------|-----------|-----------|
+| Random Forest | **0.77** | 0.83 |
 
 <img width="638" height="357" alt="Captura de pantalla 2026-01-11 220436" src="https://github.com/user-attachments/assets/2f2a6007-91d2-4381-a92a-5f8fe00c60f9" />
 
