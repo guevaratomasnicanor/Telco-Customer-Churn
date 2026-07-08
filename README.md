@@ -65,6 +65,17 @@ Se entrenaron modelos de clasificación para predecir la variable `Churn`.
 
 <img width="638" height="357" alt="Captura de pantalla 2026-01-11 220436" src="https://github.com/user-attachments/assets/2f2a6007-91d2-4381-a92a-5f8fe00c60f9" />
 
+---
+
+## 💼 Caso de Negocio (Business Case)
+
+Traducir la precisión del modelo a valor económico es el eje central del proyecto. Si la empresa ejecutara campañas masivas de fidelización a ciegas (ofreciendo descuentos a toda la base), incurriría en ineficiencias críticas al regalar margen a usuarios que planeaban quedarse de todos modos. El algoritmo soluciona esto permitiendo un enfoque quirúrgico sobre el segmento de alto riesgo.
+
+- **Población en riesgo:** El modelo aísla a un grupo crítico de **~4.100 clientes**.
+- **Costo de la campaña:** Implementar una estrategia dirigida (oferta de contrato anual con beneficio comercial) para este segmento cuesta cerca de **$\$220.000$ USD**.
+- **Escenario de éxito conservador:** Con que la campaña logre retener a apenas **un tercio (33.3%)** de esos usuarios en peligro, el valor contractual recuperado asciende a **$\$720.000$ USD**.
+- **Retorno de Inversión (ROI):** Esto representa un retorno de **3.3x veces la inversión**, logrando el mismo impacto en el P&L que un despliegue tradicional pero gastando apenas una fracción del presupuesto.
+
 
 
 ---
